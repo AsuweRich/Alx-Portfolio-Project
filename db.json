@@ -1,0 +1,61 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "name": "Peter Lee",
+      "email": "akojedepete@gmail.com",
+      "phone": "2347067114479"
+    },
+    {
+      "id": 2,
+      "name": "Femi Lee",
+      "email": "femilee@gmail.com",
+      "phone": "23470678908"
+    },
+    {
+      "id": 3,
+      "name": "Makinde Samuel",
+      "email": "mankind@gmail.com",
+      "phone": "23480987345688"
+    },
+    {
+      "id": 4,
+      "name": "Peter Bass",
+      "email": "peterbass@gmail.com",
+      "phone": "2347067114479"
+    },
+    {
+      "id": 5,
+      "name": "Yinka Taiwo ",
+      "email": "yinka@gmail.com",
+      "phone": "2349089765431"
+    },
+    {
+      "id": 8,
+      "name": "peteryu",
+      "email": "yujj@gmail.com",
+      "phone": "977665876"
+    },
+    {
+      "name": "Funmi",
+      "email": "funki@gmail.com",
+      "phone": "78383838",
+      "active": true,
+      "id": 10
+    },
+    {
+      "name": "Peter Akojede",
+      "email": "akojedepete@gmail.com",
+      "phone": "2347067114479",
+      "active": true,
+      "id": 11
+    },
+    {
+      "name": "Akojede Olufemi",
+      "email": "hyperperitus@gmail.com",
+      "phone": "23476859893038",
+      "active": true,
+      "id": 12
+    }
+  ]
+}
