@@ -1,6 +1,6 @@
-WebStack Portfolio Project
+# Portfolio Project
 
-Team Project did in Alx by Akojede Peter and Maknde Samuel
+## Team Project did in Alx by Asuwe Richard Wuese
 
 The web stack portfolio project involves the development of an application that allows employees to input their personal data, such as names, phone numbers, and email addresses, and store it in a database. The project also includes the ability for employees to edit or delete their data and view information from the database.
 
